@@ -19,6 +19,10 @@ cheetsheet [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshe
 ##Themes
 http://opthemes.com
 
+Greyshade
+[[demo]](http://shashankmehta.in)
+[[github repo]](https://github.com/shashankmehta/greyshade)
+
 stash
 [[demo]](http://zespia.tw/Octopress-Theme-Slash/)
 
