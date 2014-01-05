@@ -6,10 +6,8 @@ comments: true
 categories: undefined
 ---
 ###Take aways from Angelina Fabbro's JSConf presentation
-
-[![Angelina Fabbro : Javascript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0/0.jpg)](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
-
-
+{% youtube v0TFmdO4ZP0 %}
+*[Angelina Fabbro : Javascript Masterclass]*
 
 Ask yourself constantly “WHY?”. Not only in programming or while reading others code, also in life, in everyday life you need to consistantly question yourself of what/how/what-if-not
 
